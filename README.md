@@ -56,7 +56,7 @@ No Commands.
    - Make sure your discord desktop client is running *(this does not work with discord on webclients like chrome etc)*
    
    - Download the latest version of the bot
-      - > [v0.1](https://github.com/OniSensei/Discord-Reactions-to-CSV-Pastebin/releases/download/v0.1/Export.Reactions.rar)
+      - > [Initial Release](https://github.com/OniSensei/Role-Message-Tracker/releases/download/Initial-Release/Role.Message.Tracker.rar)
     
    - Extract the zip to the desktop or my documents, somewhere you can find it easily.
    
