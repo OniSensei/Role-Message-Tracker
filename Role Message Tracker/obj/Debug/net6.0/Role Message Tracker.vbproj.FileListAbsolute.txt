@@ -1,0 +1,28 @@
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\bin\Debug\net6.0\Role Message Tracker.exe
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\bin\Debug\net6.0\Role Message Tracker.deps.json
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\bin\Debug\net6.0\Role Message Tracker.runtimeconfig.json
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\bin\Debug\net6.0\Role Message Tracker.dll
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\bin\Debug\net6.0\Role Message Tracker.pdb
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\bin\Debug\net6.0\Discord.Net.Commands.dll
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\bin\Debug\net6.0\Discord.Net.Core.dll
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\bin\Debug\net6.0\Discord.Net.Interactions.dll
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\bin\Debug\net6.0\Discord.Net.Rest.dll
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\bin\Debug\net6.0\Discord.Net.Webhook.dll
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\bin\Debug\net6.0\System.Interactive.Async.dll
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\bin\Debug\net6.0\Nini.dll
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\obj\Debug\net6.0\Role Message Tracker.vbproj.AssemblyReference.cache
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\obj\Debug\net6.0\Role Message Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\obj\Debug\net6.0\Role Message Tracker.AssemblyInfoInputs.cache
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\obj\Debug\net6.0\Role Message Tracker.AssemblyInfo.vb
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\obj\Debug\net6.0\Role Message Tracker.vbproj.CoreCompileInputs.cache
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\obj\Debug\net6.0\Role Message Tracker.vbproj.CopyComplete
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\obj\Debug\net6.0\Role Message Tracker.dll
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\obj\Debug\net6.0\refint\Role Message Tracker.dll
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\obj\Debug\net6.0\Role Message Tracker.pdb
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\obj\Debug\net6.0\Role Message Tracker.genruntimeconfig.cache
+C:\Users\tony\source\repos\Role Message Tracker\Role Message Tracker\obj\Debug\net6.0\ref\Role Message Tracker.dll

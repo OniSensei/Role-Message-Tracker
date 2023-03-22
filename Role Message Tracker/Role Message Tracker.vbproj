@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Role_Message_Tracker</RootNamespace>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Discord.Net" Version="3.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Nini">
+      <HintPath>..\..\..\..\Downloads\Nini-1.1.0\Nini\Bin\DotNet\1.1\Release\Nini.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
